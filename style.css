@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.nav {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+h1 {
+  padding: 50px;
+  margin-top: 10px;
+}
+ul,
+li,
+h1 {
+  display: inline;
+}
+ul {
+  margin-left: 50%;
+  padding: 5px;
+}
+ul li {
+  padding: 5px;
+}
+li:hover {
+  color: rgb(220, 207, 207);
+  cursor: pointer;
+}
+.searchb.box,
+input {
+  margin-top: 150px;
+  width: 60%;
+  margin-left: 300px;
+  text-align: left;
+  padding: 5px;
+  border-style: 20px black solid;
+}
+.PRODUCTS1 {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+  width: 250px;
+  padding: 5px;
+  margin-left: 10%;
+  text-align: justify;
+  padding: 2px;
+  background-color: black;
+  color: white;
+}
+.PRODUCTS1 img {
+  width: 250px;
+  height: 250px;
+}
+
+.PRODUCTS2 {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+  width: 250px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 150px;
+  text-align: justify;
+  padding: 2px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+.PRODUCTS2 img {
+  width: 250px;
+  height: 250px;
+}
+.PRODUCTS3 {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+  width: 250px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 150px;
+  text-align: justify;
+  padding: 2px;
+  background-color: black;
+  color: rgb(255, 255, 255);
+}
+.PRODUCTS3 img {
+  width: 250px;
+  height: 250px;
+}
+
+.PRODUCTS4 {
+  border-color: black;
+  border-style: solid;
+  border-width: 2px;
+  display: inline-block;
+  width: 250px;
+  padding: 10px;
+  margin-left: 20px;
+  margin-top: 150px;
+  text-align: justify;
+  padding: 2px;
+  background-color: black;
+  color: rgb(240, 234, 234);
+}
+.PRODUCTS4 img {
+  width: 250px;
+  height: 250px;
+}
+.PRODUCTS1:hover {
+  background-color: black;
+  color: hsla(0, 0%, 50%, 0.959);
+  cursor: pointer;
+}
+.PRODUCTS2:hover {
+  background-color: black;
+  color: gray;
+  cursor: pointer;
+}
+.PRODUCTS3:hover {
+  background-color: black;
+  color: grey;
+  cursor: pointer;
+}
+.PRODUCTS4:hover {
+  background-color: black;
+  color: grey;
+  cursor: pointer;
+}
+.ABOUT,h1,P{
+   margin-top: 35px;
+   text-align: center;
+   text-wrap: wrap;
+   font-weight: 5px;
+}
+.ABOUT p{
+  text-align: justify;
+   text-indent: 70px;
+}
+.CONTACT,h3,h4,h5{
+   margin-top: 20px;
+   background-color: black;
+   color: white;
+
+}
